@@ -1,4 +1,4 @@
-package com.pugal.spring.boot.springbootdemo;
+package com.rasper;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

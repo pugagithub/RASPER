@@ -1,4 +1,4 @@
-package com.pugal.spring.boot.springbootdemo.controller;
+package com.rasper.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
